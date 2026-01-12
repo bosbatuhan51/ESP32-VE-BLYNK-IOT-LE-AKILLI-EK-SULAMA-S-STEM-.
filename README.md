@@ -1,6 +1,7 @@
 # 🌱 IoT Tabanlı Akıllı Bitki Sulama ve Takip Sistemi
 
-Bu proje, **ESP32** mikrodenetleyicisi ve **Blynk IoT** platformu kullanılarak geliştirilmiş, hibrit (Otomatik/Manuel) çalışan bir akıllı tarım prototipidir. Sistem, toprak nemini sürekli analiz ederek bitkinin su ihtiyacını karşılar. Veriler hem **Blynk Mobil Uygulaması** hem de **Blynk Web Console** üzerinden anlık olarak takip edilebilir.
+Bu proje, **ESP32** mikrodenetleyicisi ve **Blynk IoT** platf![GİTHUB ](https://github.com/user-attachments/assets/3529a2e0-c871-4f34-900e-749ef5354e5c)
+ormu kullanılarak geliştirilmiş, hibrit (Otomatik/Manuel) çalışan bir akıllı tarım prototipidir. Sistem, toprak nemini sürekli analiz ederek bitkinin su ihtiyacını karşılar. Veriler hem **Blynk Mobil Uygulaması** hem de **Blynk Web Console** üzerinden anlık olarak takip edilebilir.
 
 ## 🚀 Projenin Amacı
 Geleneksel sulama yöntemlerindeki insan hatasını (unutma veya aşırı sulama) ortadan kaldırmak ve su tüketim verisini dijitalleştirerek uzaktan takibi ve kontrolü sağlamaktır.
