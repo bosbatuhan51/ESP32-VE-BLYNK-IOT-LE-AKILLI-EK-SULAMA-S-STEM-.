@@ -55,13 +55,14 @@ Sistem verileri **Blynk Console** (Web) ve Mobil Uygulama üzerinden şu pinlerl
 ---
 
 ## 🔌 Donanım Bağlantıları (Custom Wiring)
-
+<img width="1331" height="700" alt="Ekran görüntüsü 2026-01-13 134159" src="https://github.com/user-attachments/assets/984211f9-f83b-4460-b281-63fbf101be14" />
 Bu projede bileşenler, ortak güç hattı (Breadboard Rails) üzerinden beslenmiş ve pompa **"Ground Switching" (Eksi Anahtarlama)** yöntemi ile bağlanmıştır.
 
 ### 1. Su Pompası Bağlantısı (Low-Side Switching)
 Pompanın artısı sürekli güce bağlıdır, eksi ucu röle üzerinden anahtarlanır.
 * **Pompa Kırmızı (+)** 👉 `ESP32 VN (5V)` 
 * **Pompa Siyah (-)** 👉 `Röle NO (Normalde Açık)`
+
 * **Röle COM (Ortak)** 👉 `ESP32 GND` (Devreyi tamamlayan uç)
 
 ### 2. Röle Modülü (Kontrol)
